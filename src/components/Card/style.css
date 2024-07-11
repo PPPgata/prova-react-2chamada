@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 33%;
+    background-color: rgb(196, 196, 196);
+    align-items: center;
+}
+.card span{
+    font-size: 36px;
+    padding: 5%;
+    font-weight: bold;
+}
+.card button{
+    background-color: rgb(255, 255, 170);
+    border: none;
+    border-radius: 10px;
+    padding: 5px 3px;
+    max-width: 100%;
+    width: 80%;
+    text-align: center;
+    margin: 5% auto;
+}

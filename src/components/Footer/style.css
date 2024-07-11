@@ -1,0 +1,11 @@
+footer{
+    background-color: #24252A;
+  }
+  .rodape{
+      display: flex;
+      justify-content:center;
+      padding: 2% 5%;
+  }
+  .rodape h2{
+    color: #fff;
+  }

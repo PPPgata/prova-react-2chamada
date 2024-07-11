@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 33%;
+    background-color: rgb(196, 196, 196);
+    align-items: center;
+}
+.card span{
+    font-size: 36px;
+    padding: 5%;
+    font-weight: bold;
+}
